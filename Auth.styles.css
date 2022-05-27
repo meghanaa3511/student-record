@@ -1,0 +1,14 @@
+.inputs{
+    padding: 15px 15px;
+}
+
+.App{
+    align-items: center;
+    border: 10px solid black; 
+}
+.button-block{
+    display: flex;
+    border-width: 1px;
+    border-top: 10px;
+    margin-top: 10px;
+}

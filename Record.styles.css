@@ -1,0 +1,15 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button-save{
+    margin-top: 10px;
+}
